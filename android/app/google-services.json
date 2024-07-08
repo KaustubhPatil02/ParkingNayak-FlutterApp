@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655341430743",
+    "project_id": "parking-nayak",
+    "storage_bucket": "parking-nayak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655341430743:android:a51d2f6142914cd3024d92",
+        "android_client_info": {
+          "package_name": "com.example.parking_nayak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY0JXx9nBVDUOb98bIWu5MUb5mybyWRLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
